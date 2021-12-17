@@ -30,9 +30,9 @@
 
 ### Resumen de mi actividad
 <!-- github stats -->
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Carloscruzvalencia&show_icons=true&theme=gotham" alt="carlos cruz" />
+<!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=Carloscruzvalencia&show_icons=true&theme=gotham" alt="carlos cruz" /> -->
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscruzvalencia" alt="carlos cruz" />
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscruzvalencia&langs_count=10&layout=compact" alt="carlos cruz" />
 
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
