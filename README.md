@@ -19,14 +19,14 @@
 
 ## Tecnologias en las que me estoy formando
 <!-- imagenes de lenguajes que estoy aprendiendo -->
-<code><img height="20" src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 
 ## Contacto
 <!-- link a correo -->
 <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
-<code><a a href="https://www.codecademy.com/learn"><img height="20" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"></a></code>
+<!-- <code><a a href="https://www.codecademy.com/learn"><img height="20" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"></a></code> -->
 
 ### Resumen de mi actividad
 <!-- github stats -->
