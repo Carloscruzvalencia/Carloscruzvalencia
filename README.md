@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Figma desing projects
+## proyectos 
 
 <code> <a href="https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects"><img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a></code>
 
