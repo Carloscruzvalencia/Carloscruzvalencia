@@ -1,4 +1,6 @@
-# Bienvenido/a a mi repositorio 👋
+# Bienvenido/a a mi repositorio 👋 [![wakatime](https://wakatime.com/badge/user/922ea6b5-2f7f-48fa-be19-fe69ccb18402.svg)](https://wakatime.com/@922ea6b5-2f7f-48fa-be19-fe69ccb18402)
+
+
 
 Soy un técnico de sonido & desarrollador web apasionado por las nuevas tecnologías sobre todo estoy interesado en las animaciones web y otros efectos que hagan que las páginas sean más innovadoras.
 
@@ -44,9 +46,5 @@ lenguajes/frameworks que uso
 <code><img height="20" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 
 ## Resumen de mi actividad
-<a><img src="https://github-readme-stats.vercel.app/api?username=Carloscruzvalencia&show_icons=true&theme=tokyonight&hide=stars,issues," alt="carlos cruz" /></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscruzvalencia&langs_count=10&layout=compact" alt="carlos cruz" /></a>
-[![Carlos wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlos_cruzvalencia)](https://wakatime.com/@carlos_cruzvalencia)
+<a><img src="https://github-readme-stats.vercel.app/api?username=Carloscruzvalencia&show_icons=true&theme=tokyonight&hide=stars,issues," alt="carlos cruz" /></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscruzvalencia&langs_count=10&layout=compact" alt="carlos cruz" /></a>
 
-
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
