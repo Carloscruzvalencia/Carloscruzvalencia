@@ -46,9 +46,6 @@ lenguajes/frameworks que uso
 ## Resumen de mi actividad
 <a><img src="https://github-readme-stats.vercel.app/api?username=Carloscruzvalencia&show_icons=true&theme=tokyonight&hide=stars,issues," alt="carlos cruz" /></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscruzvalencia&langs_count=10&layout=compact" alt="carlos cruz" /></a>
-
-<figure><embed src="https://wakatime.com/share/@carlos_cruzvalencia/362882a7-f152-4ed6-b888-3d58f4a7bb7a.svg"></embed></figure>
-
 [![Carlos wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlos_cruzvalencia)](https://wakatime.com/@carlos_cruzvalencia)
 
 
