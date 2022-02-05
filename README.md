@@ -47,4 +47,4 @@ lenguajes/frameworks que uso
 
 ## Resumen de mi actividad
 <a><img src="https://github-readme-stats.vercel.app/api?username=Carloscruzvalencia&show_icons=true&theme=tokyonight&hide=stars,issues," alt="carlos cruz" /></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscruzvalencia&langs_count=10&layout=compact" alt="carlos cruz" /></a>
-
+<img src="https://wakatime.com/share/@carlos_cruzvalencia/4ce0b728-d070-42c4-9da8-6219149760b4.svg"></img>
