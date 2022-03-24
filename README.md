@@ -44,6 +44,7 @@ lenguajes/frameworks que uso
 <!-- imagenes de lenguajes que estoy aprendiendo -->
 <code><img height="20" src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+<code><img height="20" src="https://i.postimg.cc/ryg1CQYs/descarga.jpg"></code>
 
 ## Resumen de mi actividad
 <a><img src="https://github-readme-stats.vercel.app/api?username=Carloscruzvalencia&show_icons=true&theme=tokyonight&hide=stars,issues," alt="carlos cruz" /></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscruzvalencia&langs_count=10&layout=compact" alt="carlos cruz" /></a>
