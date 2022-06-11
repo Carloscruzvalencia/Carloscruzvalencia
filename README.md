@@ -47,5 +47,8 @@ lenguajes/frameworks que uso
 <code><img height="20" src="https://i.postimg.cc/ryg1CQYs/descarga.jpg"></code>
 
 ## Resumen de mi actividad
+<details>
+  <summary>Graficos de actividad</summary>
 <a><img src="https://github-readme-stats.vercel.app/api?username=Carloscruzvalencia&show_icons=true&theme=tokyonight&hide=stars,issues," alt="carlos cruz" /></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscruzvalencia&langs_count=10&layout=compact" alt="carlos cruz" /></a>
 <img src="https://wakatime.com/share/@carlos_cruzvalencia/bfcfa451-813c-4d78-9a27-c05543a60bd4.svg" ></img>
+</details>
