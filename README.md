@@ -14,6 +14,7 @@ Bootcamp de programación de 7 meses en <a href="https://factoriaf5.org/">`Facto
 <!-- link a correo -->
 <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
 <code><a a href="https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1"><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a></code>
+<code><a a href="https://www.linkedin.com/in/carlos-cruz-valencia-564514162/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
 ## Tecnologias que uso en mis proyectos
 IDE
