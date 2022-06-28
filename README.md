@@ -1,5 +1,4 @@
-# Bienvenido/a a mi repositorio 👋 [![wakatime](https://wakatime.com/badge/user/922ea6b5-2f7f-48fa-be19-fe69ccb18402.svg)](https://wakatime.com/@922ea6b5-2f7f-48fa-be19-fe69ccb18402)
-
+# Bienvenido/a a mi repositorio 👋
 
 
 Soy un técnico de sonido & desarrollador web apasionado por las nuevas tecnologías sobre todo estoy interesado en las animaciones web y otros efectos que hagan que las páginas sean más innovadoras.
