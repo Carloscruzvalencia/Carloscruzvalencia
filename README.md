@@ -5,9 +5,11 @@ Soy un técnico de sonido & desarrollador web apasionado por las nuevas tecnolog
 
 Mi formación:
 
-Bootcamp de programación de 7 meses en <a href="https://factoriaf5.org/">`Factoría F5`</a>
+`Cursando actualmente` `Gradosuperior DAM-DAW` en ins Pedralbes 
 
 `Grado medio de SMIX` (sistemas microinformáticos y redes) en ins Pedralbes
+
+Bootcamp de programación de 7 meses en <a href="https://factoriaf5.org/">`Factoría F5`</a>
 
 ## Links de interes
 <!-- link a correo -->
