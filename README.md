@@ -24,7 +24,7 @@ IDE
 
 programas que uso
 <!-- figma -->
-<code><img height=30 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code><!-- gitkraken -->
+<code><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code><!-- gitkraken -->
 <code><img height="30" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"></code><!-- Xamp -->
 <code><img height="30" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></code><!-- trello -->
 <code><img height="30" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></code><!-- my sql -->
