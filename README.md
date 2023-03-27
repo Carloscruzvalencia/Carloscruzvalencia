@@ -11,10 +11,9 @@ Mi formación:
 
 Bootcamp de programación de 7 meses en <a href="https://factoriaf5.org/">`Factoría F5`</a>
 
-## Links de interes
+## Links de Contacto
 <!-- link a correo -->
 <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
-<code><a a href="https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1"><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a></code>
 <code><a a href="https://www.linkedin.com/in/carlos-cruz-valencia-564514162/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
 ## Tecnologias que uso en mis proyectos
@@ -41,12 +40,6 @@ lenguajes/frameworks que uso
 <code><img src="https://camo.githubusercontent.com/12c4402a62af1a832fe34f8f60d5494706dd433de5fe65c472d6fa66f0f5578e/687474703a2f2f677265656e736f636b2e636f6d2f5f696d672f6769746875622f7468756d622d7363726f6c6c747269676765722d736d616c6c2e676966" height="30"></img></code><!-- textillate -->
 <code><img src="https://m1.paperblog.com/i/170/1706558/textillatejs-animaciones-texto-usando-css3-L-RwyQR7.jpeg" height="32"></img></code><!-- animate -->
 <code><img src="https://www.drupaladicto.com/sites/drupaladicto/files/inline-images/pagina%20ofical%20animate%20css.PNG" height="32"></img></code>
-
-## Tecnologias en las que me estoy formando
-<!-- imagenes de lenguajes que estoy aprendiendo -->
-<code><img height="20" src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
-<code><img height="20" src="https://i.postimg.cc/ryg1CQYs/descarga.jpg"></code>
 
 ## Graficos de actividad
 <img src="https://wakatime.com/share/@carlos_cruzvalencia/bfcfa451-813c-4d78-9a27-c05543a60bd4.svg" ></img>
