@@ -32,6 +32,8 @@ IDE
 
 ### lenguajes/frameworks que uso
 
+
+#### Front-end
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 
 <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -43,6 +45,7 @@ IDE
 <code>![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 </code>
 
+#### Bak-end
 <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code><!-- sass -->
 
 ## Graficos de actividad
