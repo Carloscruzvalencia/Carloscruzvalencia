@@ -11,7 +11,6 @@ Mi formación:
 - Bootcamp de programación de 7 meses en <a href="https://factoriaf5.org/">`Factoría F5`</a>
 
 ## Links de Contacto
-<!-- link a correo -->
 <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code><code><a a href="https://www.linkedin.com/in/carlos-cruz-valencia-564514162/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
 ## Tecnologias que uso en mis proyectos
@@ -24,7 +23,6 @@ Sistema operativo
 - A pesar de tener experiencia en ambos sistemas operativos, paso la mayor parte del tiempo en Windows.
 
 IDE
-<!-- visual studio code -->
 <code><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code> 
 
 - El editor de código en el que me siento más gracias a que cuenta con múltiples plugins y el soporte de la comunidad.
@@ -54,7 +52,10 @@ IDE
 </code>
 
 #### Bak-end
-<code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code><!-- sass -->
+<code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+
+<code>![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+</code>
 
 ## Graficos de actividad
 <img src="https://wakatime.com/share/@carlos_cruzvalencia/bfcfa451-813c-4d78-9a27-c05543a60bd4.svg" ></img>
