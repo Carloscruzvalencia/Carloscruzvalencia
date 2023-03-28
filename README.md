@@ -28,7 +28,7 @@ El editor gráfico donde convierto mis ideas en diseños y pruebo diferentes dis
 <code><img height="30" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></code>
 Donde organizo mis proyectos utilizando metodologias agiles para mantener un ritmo constante y asegurar que termino los proyectos a tiempo.
 
-lenguajes/frameworks que uso
+### lenguajes/frameworks que uso
 <!-- bootstrap -->
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><!-- css -->
