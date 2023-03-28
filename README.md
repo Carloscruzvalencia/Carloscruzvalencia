@@ -15,6 +15,14 @@ Mi formación:
 <code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code><code><a a href="https://www.linkedin.com/in/carlos-cruz-valencia-564514162/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
 ## Tecnologias que uso en mis proyectos
+Sistema operativo
+
+<code>![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</code><code>![Windows Server](https://img.shields.io/badge/Windows_Server-2016-0078D6?style=for-the-badge&logo=windows&logoColor=white)</code>
+
+<code>![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</code>
+
+- A pesar de tener experiencia en ambos sistemas operativos, paso la mayor parte del tiempo en Windows.
+
 IDE
 <!-- visual studio code -->
 <code><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code> 
