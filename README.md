@@ -31,12 +31,15 @@ IDE
 - Donde organizo mis proyectos utilizando metodologias agiles para mantener un ritmo constante y asegurar que termino los proyectos a tiempo.
 
 ### lenguajes/frameworks que uso
-<!-- bootstrap -->
+
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><!-- css -->
+
+<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code><code><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
 
 <code>![ScrollTrigger](https://img.shields.io/badge/javascript.js-gray?style=for-the-badge&logo=javascript)</code><code>![Zdog.js](https://img.shields.io/badge/Zdog.js-gray?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</code><code>![Textillate.js](https://img.shields.io/badge/Textillate.js-gray?style=for-the-badge&logo=javascript)</code><code>![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger.js-gray?style=for-the-badge&logo=javascript)</code>
+
 <code>![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 </code>
 
